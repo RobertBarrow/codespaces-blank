@@ -9,7 +9,7 @@ case study.  There is no “right” answer and all candidates will be scored on
 
 ## Process
 
-1. Write a Plan and Approach documenting your thought process on how you would tackle
+1. Write a **[Plan and Approach](https://robertbarrow.github.io/primarybid/plan-and-approach)** documenting your thought process on how you would tackle
     the challenge as set out within the case study description.
 2. Present your case study in a format chosen by yourself, making a case as to why your
     process best serves the related stakeholders.  Example Formats: PowerPoint, Word,
