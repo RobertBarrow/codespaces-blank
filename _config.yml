@@ -1,0 +1,13 @@
+title: PrimaryBid
+author: Robert Barrow
+email: robert.barrow@agilemanifesto.co.uk
+
+# social links
+linkedin_username: robertbarrow
+twitter_username: SquidVicious_UK
+github_username:  RobertBarrow
+
+# build settings
+markdown: GFM
+show_excerpts: true # set to false to remove excerpts on the homepage
+theme: jekyll-theme-cayman
