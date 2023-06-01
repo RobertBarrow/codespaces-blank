@@ -12,7 +12,7 @@ To address the situation and establish a more effective product delivery approac
 ## 1. Team Alignment and Prioritisation Review
 
 - Schedule a meeting with the team to discuss the misalignment between the requested features and the established prioritisation track.
-- Present a clear overview of the prioritisation process, emphasising the importance of discovery, planning, and collaboration in determining the roadmap.
+- Present a [clear overview of the prioritisation process](https://robertbarrow.github.io/primarybid/prioritisation-process-overview), emphasising the importance of discovery, planning, and collaboration in determining the roadmap.
 - Revisit the prioritised list of features and evaluate the impact of the stakeholders' requests on the team's capacity and existing commitments.
 - Collaboratively reassess the prioritisation based on the new information and make any necessary adjustments, involving the team's input and expertise.
 
