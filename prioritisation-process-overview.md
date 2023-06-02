@@ -12,7 +12,7 @@ permalink: /prioritisation-process-overview
 When presenting a clear overview of the prioritisation process, it's essential to emphasise the importance of discovery, planning, and collaboration in determining our product roadmap. Here's a more detailed breakdown of how I would cover each of these in my presentation:
 
 ## 1. Discovery
-   - Explain that the discovery phase involves understanding customer needs, market trends, and business objectives.
+   - Explain that the [discovery phase](https://robertbarrow.github.io/primarybid/discovery-phase) involves understanding customer needs, market trends, and business objectives.
    - Highlight the significance of conducting user research, gathering customer feedback, and analysing market data to identify valuable opportunities.
    - Emphasise that discovery helps the team gain insights into user pain points, define problem statements, and uncover potential solutions.
 
