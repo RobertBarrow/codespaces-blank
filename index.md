@@ -31,7 +31,7 @@ compare the list of priorities with what they are pushing in the pipeline - You 
 equipped to be working on this due to poor defined communication channels, but the work has
 already been scoped and shared with the team.
 
-Please suggest a Product delivery approach (with roles and responsibilities) that you would
+Please suggest a **[Product delivery approach](https://robertbarrow.github.io/primarybid/product-delivery-approach)**  (with roles and responsibilities) that you would
 promote and implement as best practice and address the following questions.
 
 1. How would you bring the team back to the right prioritization track, or adapt the prioritization track?
