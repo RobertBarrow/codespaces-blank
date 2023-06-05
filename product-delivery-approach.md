@@ -1,6 +1,6 @@
 ---
-title: "Plan and Approach"
-permalink: /plan-and-approach
+title: "Product Delivery Approach"
+permalink: /product-delivery-approach
 ---
 
 [< Case Study Task](https://robertbarrow.github.io/primarybid/)
