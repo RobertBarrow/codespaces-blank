@@ -11,6 +11,10 @@ permalink: /product-delivery-lifecycle
 
 ![Product Delivery Lifecycle](https://robertbarrow.github.io/primarybid/assets/product-delivery-lifecycle.png)
 
+# Product Delivery RACI
+
+![Product Delivery RACI](https://robertbarrow.github.io/primarybid/assets/raci.png)
+
 [< Product Delivery Approach](https://robertbarrow.github.io/primarybid/product-delivery-approach)
 
 [< Home](https://robertbarrow.github.io/primarybid/)
