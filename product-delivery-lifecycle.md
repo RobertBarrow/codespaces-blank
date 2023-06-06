@@ -9,7 +9,7 @@ permalink: /product-delivery-lifecycle
 
 # Product Delivery Lifecycle
 
-![Product Delivery Lifecycle](https://robertbarrow.github.io/primarybid/assets/product-delivery-lifecycle.png "Product Delivery Lifecycle")
+![Product Delivery Lifecycle](https://robertbarrow.github.io/primarybid/assets/product-delivery-lifecycle.png)
 
 [< Product Delivery Approach](https://robertbarrow.github.io/primarybid/product-delivery-approach)
 
