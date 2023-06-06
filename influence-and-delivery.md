@@ -11,6 +11,8 @@ permalink: /influence-and-delivery
 
 ![Influence and Delivery](https://robertbarrow.github.io/primarybid/assets/influence-and-delivery.png "Influence and Delivery")
 
+[Product Delivery Lifecycle >](https://robertbarrow.github.io/primarybid/product-delivery-lifecycle)
+
 [< Product Delivery Approach](https://robertbarrow.github.io/primarybid/product-delivery-approach)
 
 [< Home](https://robertbarrow.github.io/primarybid/)

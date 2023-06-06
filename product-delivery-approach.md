@@ -3,7 +3,7 @@ title: "Product Delivery Approach"
 permalink: /product-delivery-approach
 ---
 
-[< Case Study Task](https://robertbarrow.github.io/primarybid/)
+[< Home](https://robertbarrow.github.io/primarybid/)
 
 # [Influence and Delivery >](https://robertbarrow.github.io/primarybid/influence-and-delivery)
 
@@ -13,4 +13,4 @@ permalink: /product-delivery-approach
 
 # [Team Topologies >](https://robertbarrow.github.io/primarybid/team-topologies)
 
-[< Case Study Task](https://robertbarrow.github.io/primarybid/)
+[< Home](https://robertbarrow.github.io/primarybid/)

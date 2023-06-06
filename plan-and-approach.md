@@ -3,7 +3,7 @@ title: "Plan and Approach"
 permalink: /plan-and-approach
 ---
 
-[< Case Study Task](https://robertbarrow.github.io/primarybid/)
+[< Home](https://robertbarrow.github.io/primarybid/)
 
 # Plan and Approach
 
@@ -51,4 +51,4 @@ To address the situation and establish a more effective product delivery approac
 
 By implementing these steps, you can bring the team back to the right prioritisation track, ensure adherence to the established process, and foster a more collaborative and effective product delivery approach.
 
-[< Case Study Task](https://robertbarrow.github.io/primarybid/)
+[< Home](https://robertbarrow.github.io/primarybid/)
