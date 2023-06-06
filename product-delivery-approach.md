@@ -7,6 +7,8 @@ permalink: /product-delivery-approach
 
 # [Influence and Delivery >](https://robertbarrow.github.io/primarybid/influence-and-delivery)
 
+# [Product Delivery Lifecycle >](https://robertbarrow.github.io/primarybid/product-delivery-lifecycle)
+
 # [Value Model Prioritisation >](https://robertbarrow.github.io/primarybid/value-model-prioritisation)
 
 # [Team Topologies >](https://robertbarrow.github.io/primarybid/team-topologies)
