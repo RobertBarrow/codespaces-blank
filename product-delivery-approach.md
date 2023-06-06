@@ -11,4 +11,7 @@ permalink: /product-delivery-approach
 # Value Model Prioritisation
 [Diagram >](https://robertbarrow.github.io/primarybid/value-model-prioritisation)
 
+# Team Topologies
+[Diagram >](https://robertbarrow.github.io/primarybid/team-topologies)
+
 [< Case Study Task](https://robertbarrow.github.io/primarybid/)
